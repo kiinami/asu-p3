@@ -1,11 +1,7 @@
 {
   "name": "asu-p3",
   "version-string": "v1.0.0",
-  "builtin-baseline" : "66009b2d73ffbd8782231cf4fed3e594b2312855",
   "dependencies": [
-    {
-      "name": "freeglut",
-      "version>=": "3.8.0"
-    }
+    "freeglut"
   ]
 }
