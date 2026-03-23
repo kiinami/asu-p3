@@ -1,5 +1,9 @@
 # asu-p3: Eulerian Fluid Simulation
 
+<div align="center">
+  <img src="static/simulation.gif" alt="Smoke Simulation Capture" width="800" />
+</div>
+
 This repository contains an Eulerian fluid simulation used to simulate smoke, implemented in C++ as a class project for the Animación y Simulación Avanzada 1 course at URJC. 
 
 The core mathematical logic and fluid dynamics are entirely coded in `src/Fluid2Exercise.cpp`. The foundational engine code, window management, and base utilities were provided by the course professor.
@@ -39,8 +43,3 @@ cmake --build build
 # Run the executable
 ./build/asu-p3
 ```
-
-## Results
-
-<!-- Replace the placeholder below with an actual video or image capture of the simulation -->
-![Smoke Simulation Capture](static/simulation.gif)
